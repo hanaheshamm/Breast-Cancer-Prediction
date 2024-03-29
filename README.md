@@ -6,6 +6,9 @@ Breast cancer is a significant health concern globally, particularly among women
 ## Dataset
 The dataset used in this project is sourced from Kaggle and contains various features such as age, tumor size, tumor grade, and lymph node status, along with binary classifications of whether the tumor is malignant or benign. Access the dataset [here](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?resource=download).
 
+## Notebook Link
+Access the notebook on Google Colab: [Breast Cancer Prediction Notebook](https://colab.research.google.com/drive/1mEpYbF2nMAOe19Mugwdgb4KMmbe2WPpE#scrollTo=8SAXd7s6og3g)
+
 ## Overview
 This repository contains a Jupyter Notebook that serves as a comprehensive guide for predicting breast cancer. The notebook covers data preprocessing, feature extraction, and model training using the Naive Bayes classifier.
 
