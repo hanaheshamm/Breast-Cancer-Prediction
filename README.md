@@ -58,6 +58,4 @@ Ensure that all necessary libraries are installed to run the code successfully. 
 ## Conclusion
 Predicting breast cancer using machine learning offers promising prospects for early detection and personalized treatment. This project aims to contribute to the ongoing efforts in improving breast cancer diagnosis and management.
 
----
 
-For any inquiries or assistance, please contact [maintainer's email or contact information].
