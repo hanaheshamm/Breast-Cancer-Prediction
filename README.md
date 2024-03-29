@@ -17,9 +17,9 @@ This repository contains a Jupyter Notebook that serves as a comprehensive guide
    - Includes steps for loading the dataset, handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
    
 3. **Feature Extraction**
-  - **Exploratory Data Analysis (EDA):** Analyzes the dataset to gain insights into its structure and distributions. This includes visualizations such as histograms, box plots, and correlation matrices to understand relationships between variables.
-   - **Feature selection/reduction techniques:** Identifies the most relevant features that contribute to predicting breast cancer. This can involve methods like univariate feature selection, recursive feature elimination, or principal component analysis (PCA).
-   - **Feature scaling/normalization:** Standardizes the scale of features to a consistent range, ensuring that no single feature dominates the model training process due to differences in magnitude.
+     - **Exploratory Data Analysis (EDA):** Analyzes the dataset to gain insights into its structure and distributions. This includes visualizations such as histograms, box plots, and correlation matrices to understand relationships between variables.
+      - **Feature selection/reduction techniques:** Identifies the most relevant features that contribute to predicting breast cancer. This can involve methods like univariate feature selection, recursive feature elimination, or principal component analysis (PCA).
+      - **Feature scaling/normalization:** Standardizes the scale of features to a consistent range, ensuring that no single feature dominates the model training process due to differences in magnitude.
    
 4. **Model Training**
      - **Introduction to Naive Bayes classifier:** Provides an overview of the Naive Bayes algorithm, a probabilistic classifier based on Bayes' theorem with the assumption of independence among features.
@@ -32,7 +32,7 @@ This repository contains a Jupyter Notebook that serves as a comprehensive guide
 
 ## Usage
 1. **Accessing the Notebook:**
-   - Click on the provided link to open the notebook in Google Colab.
+   - Click on the provided link to open the notebook in Google Colab: [Breast Cancer Prediction Notebook](https://colab.research.google.com/drive/1mEpYbF2nMAOe19Mugwdgb4KMmbe2WPpE#scrollTo=8SAXd7s6og3g) to open the notebook in Google Colab.
 
 2. **Running the Notebook:**
    - Execute each cell sequentially by clicking on the play button or pressing Shift + Enter.
